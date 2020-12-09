@@ -6,9 +6,9 @@ name: Luke Fretwell
 image: luke-fretwell.png
 categories:
  - 
-linkedin: https://www.linkedin.com/in/mgifford/
-twitter: https://twitter.com/mgifford
-github: https://github.com/mgifford
+linkedin: https://www.linkedin.com/in/lukefretwell/
+twitter: https://twitter.com/lukefretwell
+github: https://github.com/lukefretwell
 gitlab: 
 drupal: 
 speakerdeck: 
