@@ -12,8 +12,10 @@ h6 {
     background: rgb(38, 31, 91);
     background: linear-gradient(160deg, rgba(38, 31, 91, 1) 5%, rgba(89, 66, 210, 1) 50%, rgba(116, 95, 233, 1) 70%, rgba(150, 126, 251, 1) 95%);
     background: #f0f0f0;
-    background-repeat: no-repeat;
+    background-image: url("/assets/img/hero2.png");
     background-position: 75% 50%;
+    background-repeat: no-repeat;
+    background-size: 25%;
     font-size: 1.3rem;
 }
 
