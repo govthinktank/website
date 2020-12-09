@@ -1,0 +1,32 @@
+docs_list_title: guide
+docs:
+
+- title: Introduction
+  url: /introduction
+  description: Get started
+  image: card-sliders.png
+
+- title: Challenges
+  url: /challenges
+  description: 
+  image: card-cloud-lightning.png
+
+- title: Solution
+  url: /solution
+  description: 
+  image: card-lightbulb.png
+
+- title: Stakeholders
+  url: /stakeholders
+  description: 
+  image: card-anchor.png
+
+- title: Organizations
+  url: /organizations
+  description: 
+  image: card-orgs.png
+
+- title: Glossary
+  url: /glossary
+  description: 
+  image: card-book.png
